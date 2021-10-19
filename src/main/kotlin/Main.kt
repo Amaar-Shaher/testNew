@@ -1,6 +1,6 @@
 fun main(args: Array<String>) {
 
-    
-    println("print your name")
+    val name = "Amaar"
+    println(name)
 
 }
